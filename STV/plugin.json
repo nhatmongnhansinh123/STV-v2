@@ -1,0 +1,21 @@
+{
+    "metadata": {
+        "name": "STV - vqt",
+        "author": "VQT",
+        "version": 1,
+        "source": "https://sangtacviet.me",
+        "regexp": "(www.)?sangtacviet.(com|me)/truyen/([a-zA-Z0-9])+/\\d+/\\d+/?$",
+        "description": "Chán STV, bị chặn hoài",
+        "locale": "vi-VN",
+        "language": "javascript",
+        "type": "novel"
+    },
+    "script": {
+        "home": "home.js",
+        "genre": "genre.js",
+        "search": "search.js",
+        "detail": "detail.js",
+        "toc": "toc.js",
+        "chap": "chap.js"
+    }
+}
